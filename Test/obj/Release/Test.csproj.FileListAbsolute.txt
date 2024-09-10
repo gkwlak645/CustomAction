@@ -1,0 +1,16 @@
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\selenium-manager\linux\selenium-manager
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\selenium-manager\macos\selenium-manager
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Test.exe.config
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Test.exe
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Test.pdb
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Modules.KSyanpse.dll
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\WebDriver.dll
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Modules.KSyanpse.pdb
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\obj\Release\Test.csproj.AssemblyReference.cache
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\obj\Release\Test.csproj.CopyComplete
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\obj\Release\Test.exe
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\obj\Release\Test.pdb
+C:\Users\sjsong\source\repos\KSynapse.CommonLibrary\Test\bin\Release\Newtonsoft.Json.xml
